@@ -1,0 +1,11 @@
+{
+    "name": "Eternal Duelist Soul Sorter",
+    "version": "1.0.0",
+    "description": "A tool to help play Yugioh: The Eternal Duelist Soul.",
+    "author": "Ezekiel Mohr ezekielbleh@gmail.com",
+    "scripts": {
+        "start": "",
+        "build": ""
+
+    }
+}
